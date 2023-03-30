@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AhmedUsamaa
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Vue.Js
+- 🌱 I’m currently working as a software engineer
 - 📫 How to reach me: linkedin.com/in/ahmedusamma
